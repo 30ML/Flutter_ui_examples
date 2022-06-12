@@ -1,1 +1,1 @@
-# C# playground
+# Clojure playground
